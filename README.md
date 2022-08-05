@@ -1,8 +1,8 @@
-# Справочник по D&D 5e на русском языке
+# Довідник з D&D 5e державною
 
-Приложение с краткими правилами Dungeons & Dragons 5e.
+Додаток із короткими правилами Dungeons & Dragons 5e.
 
-**Вебсайт:** [https://5e.ruleplaying.com/](https://5e.ruleplaying.com/)
+**Вебсайт:** [https://5e.uapleplaying.com/](https://5e.uapeplaying.com/)
 
 [Svelte](https://svelte.dev/) + [TailwindCSS](https://tailwindcss.com/) = ❤️
 
@@ -12,13 +12,13 @@
 npm install
 ```
 
-### Разработка
+### Розробка
 
 ```bash
 npm run dev
 ```
 
-### Компиляция
+### Компіляція
 
 ```bash
 npm run build
