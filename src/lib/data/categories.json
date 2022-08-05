@@ -1,86 +1,86 @@
 [
 	{
 		"dataset": "movement",
-		"title": "Движение",
-		"subtitle": "ограничено скоростью",
+		"title": "Рух",
+		"subtitle": "обмежено швидкістю",
 		"color": "g-stone"
 	},
 	{
 		"dataset": "action",
-		"title": "Действия",
-		"subtitle": "1 за ход",
+		"title": "Дії",
+		"subtitle": "1 за хід",
 		"color": "g-red"
 	},
 	{
 		"dataset": "bonus-action",
-		"title": "Бонусные действия",
-		"subtitle": "максимум 1 за ход",
+		"title": "Бонусні дії",
+		"subtitle": "максимум 1 за хід",
 		"color": "g-orange"
 	},
 	{
 		"dataset": "reaction",
-		"title": "Реакции",
-		"subtitle": "1 до вашего следующего хода",
+		"title": "Реакція",
+		"subtitle": "1 до вашого наступного ходу",
 		"color": "g-amber"
 	},
 	{
 		"dataset": "free-action",
-		"title": "Свободные действия",
+		"title": "Вільні дії",
 		"color": "g-yellow"
 	},
 	{
 		"dataset": "condition",
-		"title": "Состояния",
+		"title": "Стан",
 		"color": "g-lime"
 	},
 	{
 		"dataset": "environment",
-		"title": "Окружающая среда и восприятие",
+		"title": "Навколишнє середовище та сприйняття",
 		"color": "g-green"
 	},
 	{
 		"dataset": "hitpoints",
-		"title": "Хиты, смерть и отдых",
+		"title": "Хіти, смерть та відпочинок",
 		"color": "g-emerald"
 	},
 	{
 		"dataset": "damage",
-		"title": "Урон и атака",
+		"title": "Шкода та атака",
 		"color": "g-teal"
 	},
 	{
 		"dataset": "abilities",
-		"title": "Характеристики и навыки",
+		"title": "Характеристики та навички",
 		"color": "g-cyan"
 	},
 	{
 		"dataset": "equipment",
-		"title": "Инструменты и оружие",
+		"title": "Інструменти і зброя",
 		"color": "g-sky"
 	},
 	{
 		"dataset": "spellcasting",
-		"title": "Заклинания",
+		"title": "Заклинання",
 		"color": "g-blue"
 	},
 	{
 		"dataset": "travel",
-		"title": "Путешествие",
+		"title": "Подорож",
 		"color": "g-indigo"
 	},
 	{
 		"dataset": "multiclassing",
-		"title": "Мультиклассирование",
+		"title": "Мультикласуваня",
 		"color": "g-violet"
 	},
 	{
 		"dataset": "language",
-		"title": "Языки",
+		"title": "Мови",
 		"color": "g-purple"
 	},
 	{
 		"dataset": "xp",
-		"title": "Опыт",
+		"title": "Досвід",
 		"color": "g-fuchsia"
 	}
 ]
